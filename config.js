@@ -11,8 +11,8 @@ reactions:
       content: |
         Please select a platform
     roles:
-      - emoji: playstation
-        role: Playstation
+      - emoji: apple
+        role: lol
       - emoji: xbox
         role: Xbox
 
