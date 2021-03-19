@@ -1,8 +1,8 @@
 
-
+#
 discord:
   token = 'client.login(process.env.BOT_TOKEN);'
-  guild:
+  guild: 752211511996317827
 
 reactions:
   - channel: role_assignment
